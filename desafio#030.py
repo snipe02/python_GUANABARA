@@ -1,0 +1,1 @@
+"""Crie um programa que leia um número inteiro é mostre na tela se ele é PAR ou IMPAR."""
